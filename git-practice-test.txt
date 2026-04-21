@@ -1,9 +1,17 @@
 Hello git commit
+<<<<<<< HEAD
+
+Hello Test
+=======
 Hello Nikunj
 hello 23Digital
+<<<<<<< HEAD
+Hello Akbar
+=======
 <<<<<<< HEAD
 Hello Viral
 =======
 Hello Akbar
 Hello Vishal
+>>>>>>> cbe3ffa644de561f8ea8edc12de676a48c54950e
 >>>>>>> 36a8dc6013eb0ec1eede824c6c007099a32ed3b9
