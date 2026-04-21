@@ -1,4 +1,8 @@
 Hello git commit
 Hello Nikunj
 hello 23Digital
+<<<<<<< HEAD
 Hello Viral
+=======
+Hello Akbar
+>>>>>>> 36a8dc6013eb0ec1eede824c6c007099a32ed3b9
