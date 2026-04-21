@@ -1,3 +1,9 @@
 Hello git commit
+<<<<<<< HEAD
 
 Hello Test
+=======
+Hello Nikunj
+hello 23Digital
+Hello Akbar
+>>>>>>> 36a8dc6013eb0ec1eede824c6c007099a32ed3b9
