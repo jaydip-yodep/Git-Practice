@@ -1,3 +1,7 @@
 git-practice-001
 Viral -test
+<<<<<<< HEAD
 Vira - 33
+=======
+Viral -test 003
+>>>>>>> 02b7102fd046f1b988361e8b22739822dc8b0864
